@@ -1,0 +1,12 @@
+com.example.mobile_application_development_course_project.app-jetified-window-1.0.0-beta04-0 C:\Users\cemayhan\.gradle\caches\transforms-3\4ed09b80554666fe568bba0e0475894f\transformed\jetified-window-1.0.0-beta04\res
+com.example.mobile_application_development_course_project.app-jetified-annotation-experimental-1.1.0-1 C:\Users\cemayhan\.gradle\caches\transforms-3\609e42c8b73a2fcbbb0e63673ccea1a8\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mobile_application_development_course_project.app-core-1.6.0-2 C:\Users\cemayhan\.gradle\caches\transforms-3\7161e115e6642554c3e4a9f8b9422ac3\transformed\core-1.6.0\res
+com.example.mobile_application_development_course_project.app-jetified-window-java-1.0.0-beta04-3 C:\Users\cemayhan\.gradle\caches\transforms-3\d5baea7140e36056cbb265d288a90777\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mobile_application_development_course_project.app-debug-4 C:\Users\cemayhan\mobile_application_development_course_project\android\app\src\debug\res
+com.example.mobile_application_development_course_project.app-main-5 C:\Users\cemayhan\mobile_application_development_course_project\android\app\src\main\res
+com.example.mobile_application_development_course_project.app-pngs-6 C:\Users\cemayhan\mobile_application_development_course_project\build\app\generated\res\pngs\debug
+com.example.mobile_application_development_course_project.app-resValues-7 C:\Users\cemayhan\mobile_application_development_course_project\build\app\generated\res\resValues\debug
+com.example.mobile_application_development_course_project.app-rs-8 C:\Users\cemayhan\mobile_application_development_course_project\build\app\generated\res\rs\debug
+com.example.mobile_application_development_course_project.app-mergeDebugResources-9 C:\Users\cemayhan\mobile_application_development_course_project\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mobile_application_development_course_project.app-mergeDebugResources-10 C:\Users\cemayhan\mobile_application_development_course_project\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mobile_application_development_course_project.app-merged_res-11 C:\Users\cemayhan\mobile_application_development_course_project\build\app\intermediates\merged_res\debug
