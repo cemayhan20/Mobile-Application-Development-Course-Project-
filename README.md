@@ -1,6 +1,29 @@
 # mobile_application_development_course_project
 
-TR
+Mobile Application Development course 2024 Spring season Term Project Assignment
+
+-TR- Proje ödevi konusu:
+
+· Flutter ile bir mobil uygulama.
+· Ana kategori ve alt kategori üzere en az iki ekran.
+· Örnek verilen siteler veya benzer başka API kaynağından REST ile JSON biçiminde veri okuma yapabilen bir uygulama olmalıdır.
+· State management kütüphanesinden biri kullanılabilir.
+· Veri alış verişi sırasında ve gereken uygun yerlerde asenkron programlama olmalıdır.
+· Animasyonlu geçişler yer almalıdır.
+· Kayıtlar ListView ile toplu olarak gösterilmeli ve biri seçilince de tekli gösterilmelidir (Hero animasyonlu geçiş tercih edilebilir).
+
+-EN- Project Assignment Topic:
+
+· A mobile application with Flutter.
+· At least two screens for main category and subcategory.
+· The application should be able to read data in JSON format from a given example site or a similar API source using REST.
+· One of the state management libraries can be used.
+· Asynchronous programming should be used during data exchange and in appropriate places.
+· There should be animated transitions.
+· Records should be displayed collectively with ListView, and when one is selected, it should be shown individually (Hero animated transition is preferred).
+
+
+-TR-
 
 Proje Yapısı:
 
@@ -19,7 +42,7 @@ Animasyonlar: Hero widget'ı kullanılarak geçiş animasyonları eklendi.
 Liste ve Detay Görünümü: ListView widget'ı ile kategoriler ve yemekler listelendi, FutureBuilder ile API çağrıları asenkron olarak yönetildi.
 
 
-EN
+-EN-
 
 Project Structure:
 
